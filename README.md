@@ -1,1 +1,1 @@
-# ft-notices-md
+# ft-notices
